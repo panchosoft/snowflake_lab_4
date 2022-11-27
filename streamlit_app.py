@@ -1,5 +1,6 @@
 import streamlit
 import snowflake.connector
+import pandas
 
 streamlit.title("Snowflake Lab 4 demo")
 
